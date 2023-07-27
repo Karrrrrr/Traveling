@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Program2</string>
+    <string name="p1t1">Trip to the Alps</string>
+    <string name="p1t2">This app is for those who have always wanted to visit the mountains. Alpine views are the best choice for you</string>
+    <string name="p1btn">Let\'s go!</string>
+    <string name="btnMain">Main</string>
+    <string name="btnGallery">Gallery</string>
+    <string name="btnMap">Map of resorts</string>
+    <string name="textIshgl">Ischgl Austria</string>
+    <string name="p2t1">Haven\'t been to the Austrian ski resorts yet? It\'s time to study the maps, the area and plan the date of the trip</string>
+    <string name="btnNew">Learn new</string>
+    <string name="textCermatt">Zermatt Switzerland</string>
+    <string name="p3t1">If you haven\'t been to the mountains of Switzerland yet, it\'s time to consider a trip there</string>
+    <string name="textAlta">Alta Badia Italy</string>
+    <string name="p4t1">Italy is famous not only for pizza and fashion, but also for its beautiful mountains, the sight of which you will never forget</string>
+    <string name="p5t1">A large ski resort with a cosmopolitan atmosphere: high above Ischgl in Patznaun, a spacious "Silvretta Arena" stretches up to the Swiss border. Numerous modern lifts, infrastructure for beginners, snow parks and interesting slopes are waiting for fans of winter sports in the Samnaun mountains.</string>
+    <string name="p5t2">Ischgl has only 1,600 citizens - and yet it is the gateway to one of the largest and most famous ski resorts in Tyrol in the world: from a small village in Patznaun, a gondola will take you to the Silvretta Arena. At an altitude of 2000 to 2872 meters, slopes of varying degrees of difficulty lead to the Swiss town of Samnaun. The choice of routes is great. Steep descents with a slope of up to 70 percent are waiting for advanced. Those who prefer comfortable skiing will prefer the Samnaun Mountains with slopes of medium difficulty. All starting points can be reached by modern lifts, including the Hidalpa. There, freestyle enthusiasts train jumping in a snowpark, and beginners explore more gentle slopes in the ski area for beginners. A ski school and a ski kindergarten also offer their services.</string>
+    <string name="btnSource">View source</string>
+    <string name="p6t1">Zermatt steadly breaks all records: the highest mountain trails and a cable way, two countries, guaranteed snow and the opportunity to ski all year round. In addition, Zermatt is one of the best resorts in the Alps for gourmets.</string>
+    <string name="p6t2">This resort in Switzerland, in the canton of Valais, offers a variety of leisure options both in winter and summer: skiing and snowboarding, holidays with children, photo tours and gastronomic trips. And a huge selection of hotels, chalets and apartments makes it easy to organize the perfect vacation. Zermatt is famous not only for its restaurants and hotels, but also for its lively nightlife. Families with children are not forgotten either: ski passes for those who have not yet turned 9 are absolutely free, and various discounts are offered for teenagers under 16. It is no coincidence that Zermatt is among the most luxurious resorts in the world – the Best of the Alps: it has been repeatedly recognized as the best by various ratings. And, of course, Zermatt is worth seeing at least once in order to be amased at the beauty of the Matterhorn – the most photographed peak in Europe.</string>
+    <string name="p7t1">Almost all the trails are concentrated on a wide plateau covered with coniferous forest, a little to the side there is a small but picturesque Santa Croce ski area (above the Pedraches resort).</string>
+    <string name="p7t2">There are few black trails here, most of the slopes are great for beginners and intermediate skaters. Of the more than sixty blue-marked trails, only 14 are not between San Cassiano and Corvara. The classic black Gran Risa track, where the World Cup stage takes place, starts from the top station of the Piz la Lla lift from La Villa. A short, but rather difficult route from Col Pradat to Edelweiss station (to get to it, go down a little from Kolfosko along the blue trail to the lower stop of the lift) is another option for strong skiers. For those who ride at the intermediate level, there are many red trails in Alta Badia. The highest and very picturesque red highway descends from the Lagazuoi station. The long red route starts from the Piz Sorega station (2003 m, the easiest way to climb is by a cabin lift from San Cassiano) and comes directly to La Villa.</string>
+</resources>
